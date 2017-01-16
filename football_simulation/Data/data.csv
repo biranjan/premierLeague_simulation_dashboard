@@ -1,0 +1,211 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR
+E0,13/08/16,Burnley,Swansea,0,1,A,0,0,D
+E0,13/08/16,Crystal Palace,West Brom,0,1,A,0,0,D
+E0,13/08/16,Everton,Tottenham,1,1,D,1,0,H
+E0,13/08/16,Hull,Leicester,2,1,H,1,0,H
+E0,13/08/16,Man City,Sunderland,2,1,H,1,0,H
+E0,13/08/16,Middlesbrough,Stoke,1,1,D,1,0,H
+E0,13/08/16,Southampton,Watford,1,1,D,0,1,A
+E0,14/08/16,Arsenal,Liverpool,3,4,A,1,1,D
+E0,14/08/16,Bournemouth,Man United,1,3,A,0,1,A
+E0,15/08/16,Chelsea,West Ham,2,1,H,0,0,D
+E0,19/08/16,Man United,Southampton,2,0,H,1,0,H
+E0,20/08/16,Burnley,Liverpool,2,0,H,2,0,H
+E0,20/08/16,Leicester,Arsenal,0,0,D,0,0,D
+E0,20/08/16,Stoke,Man City,1,4,A,0,2,A
+E0,20/08/16,Swansea,Hull,0,2,A,0,0,D
+E0,20/08/16,Tottenham,Crystal Palace,1,0,H,0,0,D
+E0,20/08/16,Watford,Chelsea,1,2,A,0,0,D
+E0,20/08/16,West Brom,Everton,1,2,A,1,1,D
+E0,21/08/16,Sunderland,Middlesbrough,1,2,A,0,2,A
+E0,21/08/16,West Ham,Bournemouth,1,0,H,0,0,D
+E0,27/08/16,Chelsea,Burnley,3,0,H,2,0,H
+E0,27/08/16,Crystal Palace,Bournemouth,1,1,D,0,1,A
+E0,27/08/16,Everton,Stoke,1,0,H,0,0,D
+E0,27/08/16,Hull,Man United,0,1,A,0,0,D
+E0,27/08/16,Leicester,Swansea,2,1,H,1,0,H
+E0,27/08/16,Southampton,Sunderland,1,1,D,0,0,D
+E0,27/08/16,Tottenham,Liverpool,1,1,D,0,1,A
+E0,27/08/16,Watford,Arsenal,1,3,A,0,3,A
+E0,28/08/16,Man City,West Ham,3,1,H,2,0,H
+E0,28/08/16,West Brom,Middlesbrough,0,0,D,0,0,D
+E0,10/9/2016,Arsenal,Southampton,2,1,H,1,1,D
+E0,10/9/2016,Bournemouth,West Brom,1,0,H,0,0,D
+E0,10/9/2016,Burnley,Hull,1,1,D,0,0,D
+E0,10/9/2016,Liverpool,Leicester,4,1,H,2,1,H
+E0,10/9/2016,Man United,Man City,1,2,A,1,2,A
+E0,10/9/2016,Middlesbrough,Crystal Palace,1,2,A,1,1,D
+E0,10/9/2016,Stoke,Tottenham,0,4,A,0,1,A
+E0,10/9/2016,West Ham,Watford,2,4,A,2,2,D
+E0,11/9/2016,Swansea,Chelsea,2,2,D,0,1,A
+E0,12/9/2016,Sunderland,Everton,0,3,A,0,0,D
+E0,16/09/16,Chelsea,Liverpool,1,2,A,0,2,A
+E0,17/09/16,Everton,Middlesbrough,3,1,H,3,1,H
+E0,17/09/16,Hull,Arsenal,1,4,A,0,1,A
+E0,17/09/16,Leicester,Burnley,3,0,H,1,0,H
+E0,17/09/16,Man City,Bournemouth,4,0,H,2,0,H
+E0,17/09/16,West Brom,West Ham,4,2,H,3,0,H
+E0,18/09/16,Crystal Palace,Stoke,4,1,H,2,0,H
+E0,18/09/16,Southampton,Swansea,1,0,H,0,0,D
+E0,18/09/16,Tottenham,Sunderland,1,0,H,0,0,D
+E0,18/09/16,Watford,Man United,3,1,H,1,0,H
+E0,24/09/16,Arsenal,Chelsea,3,0,H,3,0,H
+E0,24/09/16,Bournemouth,Everton,1,0,H,1,0,H
+E0,24/09/16,Liverpool,Hull,5,1,H,3,0,H
+E0,24/09/16,Man United,Leicester,4,1,H,4,0,H
+E0,24/09/16,Middlesbrough,Tottenham,1,2,A,0,2,A
+E0,24/09/16,Stoke,West Brom,1,1,D,0,0,D
+E0,24/09/16,Sunderland,Crystal Palace,2,3,A,1,0,H
+E0,24/09/16,Swansea,Man City,1,3,A,1,1,D
+E0,25/09/16,West Ham,Southampton,0,3,A,0,1,A
+E0,26/09/16,Burnley,Watford,2,0,H,1,0,H
+E0,30/09/16,Everton,Crystal Palace,1,1,D,1,0,H
+E0,1/10/2016,Hull,Chelsea,0,2,A,0,0,D
+E0,1/10/2016,Sunderland,West Brom,1,1,D,0,1,A
+E0,1/10/2016,Swansea,Liverpool,1,2,A,1,0,H
+E0,1/10/2016,Watford,Bournemouth,2,2,D,0,1,A
+E0,1/10/2016,West Ham,Middlesbrough,1,1,D,0,0,D
+E0,2/10/2016,Burnley,Arsenal,0,1,A,0,0,D
+E0,2/10/2016,Leicester,Southampton,0,0,D,0,0,D
+E0,2/10/2016,Man United,Stoke,1,1,D,0,0,D
+E0,2/10/2016,Tottenham,Man City,2,0,H,2,0,H
+E0,15/10/16,Arsenal,Swansea,3,2,H,2,1,H
+E0,15/10/16,Bournemouth,Hull,6,1,H,3,1,H
+E0,15/10/16,Chelsea,Leicester,3,0,H,2,0,H
+E0,15/10/16,Crystal Palace,West Ham,0,1,A,0,1,A
+E0,15/10/16,Man City,Everton,1,1,D,0,0,D
+E0,15/10/16,Stoke,Sunderland,2,0,H,2,0,H
+E0,15/10/16,West Brom,Tottenham,1,1,D,0,0,D
+E0,16/10/16,Middlesbrough,Watford,0,1,A,0,0,D
+E0,16/10/16,Southampton,Burnley,3,1,H,0,0,D
+E0,17/10/16,Liverpool,Man United,0,0,D,0,0,D
+E0,22/10/16,Arsenal,Middlesbrough,0,0,D,0,0,D
+E0,22/10/16,Bournemouth,Tottenham,0,0,D,0,0,D
+E0,22/10/16,Burnley,Everton,2,1,H,1,0,H
+E0,22/10/16,Hull,Stoke,0,2,A,0,1,A
+E0,22/10/16,Leicester,Crystal Palace,3,1,H,1,0,H
+E0,22/10/16,Liverpool,West Brom,2,1,H,2,0,H
+E0,22/10/16,Swansea,Watford,0,0,D,0,0,D
+E0,22/10/16,West Ham,Sunderland,1,0,H,0,0,D
+E0,23/10/16,Chelsea,Man United,4,0,H,2,0,H
+E0,23/10/16,Man City,Southampton,1,1,D,0,1,A
+E0,29/10/16,Crystal Palace,Liverpool,2,4,A,2,3,A
+E0,29/10/16,Man United,Burnley,0,0,D,0,0,D
+E0,29/10/16,Middlesbrough,Bournemouth,2,0,H,1,0,H
+E0,29/10/16,Sunderland,Arsenal,1,4,A,0,1,A
+E0,29/10/16,Tottenham,Leicester,1,1,D,1,0,H
+E0,29/10/16,Watford,Hull,1,0,H,0,0,D
+E0,29/10/16,West Brom,Man City,0,4,A,0,2,A
+E0,30/10/16,Everton,West Ham,2,0,H,0,0,D
+E0,30/10/16,Southampton,Chelsea,0,2,A,0,1,A
+E0,31/10/16,Stoke,Swansea,3,1,H,1,1,D
+E0,5/11/2016,Bournemouth,Sunderland,1,2,A,1,1,D
+E0,5/11/2016,Burnley,Crystal Palace,3,2,H,2,0,H
+E0,5/11/2016,Chelsea,Everton,5,0,H,3,0,H
+E0,5/11/2016,Man City,Middlesbrough,1,1,D,1,0,H
+E0,5/11/2016,West Ham,Stoke,1,1,D,0,0,D
+E0,6/11/2016,Arsenal,Tottenham,1,1,D,1,0,H
+E0,6/11/2016,Hull,Southampton,2,1,H,0,1,A
+E0,6/11/2016,Leicester,West Brom,1,2,A,0,0,D
+E0,6/11/2016,Liverpool,Watford,6,1,H,3,0,H
+E0,6/11/2016,Swansea,Man United,1,3,A,0,3,A
+E0,19/11/16,Crystal Palace,Man City,1,2,A,0,1,A
+E0,19/11/16,Everton,Swansea,1,1,D,0,1,A
+E0,19/11/16,Man United,Arsenal,1,1,D,0,0,D
+E0,19/11/16,Southampton,Liverpool,0,0,D,0,0,D
+E0,19/11/16,Stoke,Bournemouth,0,1,A,0,1,A
+E0,19/11/16,Sunderland,Hull,3,0,H,1,0,H
+E0,19/11/16,Tottenham,West Ham,3,2,H,0,1,A
+E0,19/11/16,Watford,Leicester,2,1,H,2,1,H
+E0,20/11/16,Middlesbrough,Chelsea,0,1,A,0,1,A
+E0,21/11/16,West Brom,Burnley,4,0,H,3,0,H
+E0,26/11/16,Burnley,Man City,1,2,A,1,1,D
+E0,26/11/16,Chelsea,Tottenham,2,1,H,1,1,D
+E0,26/11/16,Hull,West Brom,1,1,D,0,1,A
+E0,26/11/16,Leicester,Middlesbrough,2,2,D,1,1,D
+E0,26/11/16,Liverpool,Sunderland,2,0,H,0,0,D
+E0,26/11/16,Swansea,Crystal Palace,5,4,H,1,1,D
+E0,27/11/16,Arsenal,Bournemouth,3,1,H,1,1,D
+E0,27/11/16,Man United,West Ham,1,1,D,1,1,D
+E0,27/11/16,Southampton,Everton,1,0,H,1,0,H
+E0,27/11/16,Watford,Stoke,0,1,A,0,1,A
+E0,3/12/2016,Crystal Palace,Southampton,3,0,H,2,0,H
+E0,3/12/2016,Man City,Chelsea,1,3,A,1,0,H
+E0,3/12/2016,Stoke,Burnley,2,0,H,2,0,H
+E0,3/12/2016,Sunderland,Leicester,2,1,H,0,0,D
+E0,3/12/2016,Tottenham,Swansea,5,0,H,2,0,H
+E0,3/12/2016,West Brom,Watford,3,1,H,2,0,H
+E0,3/12/2016,West Ham,Arsenal,1,5,A,0,1,A
+E0,4/12/2016,Bournemouth,Liverpool,4,3,H,0,2,A
+E0,4/12/2016,Everton,Man United,1,1,D,0,1,A
+E0,5/12/2016,Middlesbrough,Hull,1,0,H,0,0,D
+E0,10/12/2016,Arsenal,Stoke,3,1,H,1,1,D
+E0,10/12/2016,Burnley,Bournemouth,3,2,H,2,1,H
+E0,10/12/2016,Hull,Crystal Palace,3,3,D,1,0,H
+E0,10/12/2016,Leicester,Man City,4,2,H,3,0,H
+E0,10/12/2016,Swansea,Sunderland,3,0,H,0,0,D
+E0,10/12/2016,Watford,Everton,3,2,H,1,1,D
+E0,11/12/2016,Chelsea,West Brom,1,0,H,0,0,D
+E0,11/12/2016,Liverpool,West Ham,2,2,D,1,2,A
+E0,11/12/2016,Man United,Tottenham,1,0,H,1,0,H
+E0,11/12/2016,Southampton,Middlesbrough,1,0,H,0,0,D
+E0,13/12/16,Bournemouth,Leicester,1,0,H,1,0,H
+E0,13/12/16,Everton,Arsenal,2,1,H,1,1,D
+E0,14/12/16,Crystal Palace,Man United,1,2,A,0,1,A
+E0,14/12/16,Man City,Watford,2,0,H,1,0,H
+E0,14/12/16,Middlesbrough,Liverpool,0,3,A,0,1,A
+E0,14/12/16,Stoke,Southampton,0,0,D,0,0,D
+E0,14/12/16,Sunderland,Chelsea,0,1,A,0,1,A
+E0,14/12/16,Tottenham,Hull,3,0,H,1,0,H
+E0,14/12/16,West Brom,Swansea,3,1,H,0,0,D
+E0,14/12/16,West Ham,Burnley,1,0,H,1,0,H
+E0,17/12/16,Crystal Palace,Chelsea,0,1,A,0,1,A
+E0,17/12/16,Middlesbrough,Swansea,3,0,H,2,0,H
+E0,17/12/16,Stoke,Leicester,2,2,D,2,0,H
+E0,17/12/16,Sunderland,Watford,1,0,H,0,0,D
+E0,17/12/16,West Brom,Man United,0,2,A,0,1,A
+E0,17/12/16,West Ham,Hull,1,0,H,0,0,D
+E0,18/12/16,Bournemouth,Southampton,1,3,A,1,1,D
+E0,18/12/16,Man City,Arsenal,2,1,H,0,1,A
+E0,18/12/16,Tottenham,Burnley,2,1,H,1,1,D
+E0,19/12/16,Everton,Liverpool,0,1,A,0,0,D
+E0,26/12/16,Arsenal,West Brom,1,0,H,0,0,D
+E0,26/12/16,Burnley,Middlesbrough,1,0,H,0,0,D
+E0,26/12/16,Chelsea,Bournemouth,3,0,H,1,0,H
+E0,26/12/16,Hull,Man City,0,3,A,0,0,D
+E0,26/12/16,Leicester,Everton,0,2,A,0,0,D
+E0,26/12/16,Man United,Sunderland,3,1,H,1,0,H
+E0,26/12/16,Swansea,West Ham,1,4,A,0,1,A
+E0,26/12/16,Watford,Crystal Palace,1,1,D,0,1,A
+E0,27/12/16,Liverpool,Stoke,4,1,H,2,1,H
+E0,28/12/16,Southampton,Tottenham,1,4,A,1,1,D
+E0,30/12/16,Hull,Everton,2,2,D,1,1,D
+E0,31/12/16,Burnley,Sunderland,4,1,H,1,0,H
+E0,31/12/16,Chelsea,Stoke,4,2,H,1,0,H
+E0,31/12/16,Leicester,West Ham,1,0,H,1,0,H
+E0,31/12/16,Liverpool,Man City,1,0,H,1,0,H
+E0,31/12/16,Man United,Middlesbrough,2,1,H,0,0,D
+E0,31/12/16,Southampton,West Brom,1,2,A,1,1,D
+E0,31/12/16,Swansea,Bournemouth,0,3,A,0,2,A
+E0,1/1/2017,Arsenal,Crystal Palace,2,0,H,1,0,H
+E0,1/1/2017,Watford,Tottenham,1,4,A,0,3,A
+E0,2/1/2017,Everton,Southampton,3,0,H,0,0,D
+E0,2/1/2017,Man City,Burnley,2,1,H,0,0,D
+E0,2/1/2017,Middlesbrough,Leicester,0,0,D,0,0,D
+E0,2/1/2017,Sunderland,Liverpool,2,2,D,1,1,D
+E0,2/1/2017,West Brom,Hull,3,1,H,0,1,A
+E0,2/1/2017,West Ham,Man United,0,2,A,0,0,D
+E0,3/1/2017,Bournemouth,Arsenal,3,3,D,2,0,H
+E0,3/1/2017,Crystal Palace,Swansea,1,2,A,0,1,A
+E0,3/1/2017,Stoke,Watford,2,0,H,1,0,H
+E0,4/1/2017,Tottenham,Chelsea,2,0,H,1,0,H
+E0,14/01/17,Burnley,Southampton,1,0,H,0,0,D
+E0,14/01/17,Hull,Bournemouth,3,1,H,1,1,D
+E0,14/01/17,Leicester,Chelsea,0,3,A,0,1,A
+E0,14/01/17,Sunderland,Stoke,1,3,A,1,3,A
+E0,14/01/17,Swansea,Arsenal,0,4,A,0,1,A
+E0,14/01/17,Tottenham,West Brom,4,0,H,2,0,H
+E0,14/01/17,Watford,Middlesbrough,0,0,D,0,0,D
+E0,14/01/17,West Ham,Crystal Palace,3,0,H,0,0,D
+E0,15/01/17,Everton,Man City,4,0,H,1,0,H
+E0,15/01/17,Man United,Liverpool,1,1,D,0,1,A
